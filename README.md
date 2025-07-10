@@ -58,15 +58,18 @@ git clone https://github.com/your-username/churn-prediction.git
 cd churn-prediction
 
 
+
 ### 2. (Optional) Create a virtual environment
 ```bash
 python -m venv env
 source env/bin/activate  # Windows: env\Scripts\activate
 
 
+
 ### 3. Install required packages
 ```bash
 pip install -r requirements.txt
+
 
 
 
@@ -89,6 +92,8 @@ pip install -r requirements.txt
 Open Jupyter Notebook:
 ```bash
 jupyter notebook Churn_prediction.ipynb
+
+
 
 
 Run all cells to:
