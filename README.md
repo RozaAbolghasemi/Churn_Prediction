@@ -56,3 +56,64 @@ To run the project locally:
 ```bash
 git clone https://github.com/your-username/churn-prediction.git
 cd churn-prediction
+
+### 2. (Optional) Create a virtual environment
+```bash
+python -m venv env
+source env/bin/activate  # Windows: env\Scripts\activate
+
+### 3. Install required packages
+```bash
+pip install -r requirements.txt
+
+
+## 🧩 Libraries Used
+- **pandas** – data manipulation
+
+- **numpy** – numerical operations
+
+- **matplotlib** – plotting
+
+- **seaborn** – statistical visualization
+
+- **scikit-learn** – ML modeling & evaluation
+
+- **xgboost** – gradient boosting model (optional)
+
+- **missingno** – missing data visualization (optional)
+
+## 🚀 How to Run
+Open Jupyter Notebook:
+```bash
+jupyter notebook Churn_prediction.ipynb
+
+Run all cells to:
+- Load and clean the data
+
+- Explore data visually
+
+- Train and evaluate churn prediction models
+
+- Interpret results and draw conclusions
+
+## 📊 Sample Visualizations
+- Correlation heatmap for feature relationships
+
+- Count plots showing churn distribution
+
+- Boxplots for outlier and distribution analysis
+
+- Confusion Matrix & ROC-AUC Curve
+
+## 💡 Future Improvements
+- Add cross-validation and ensemble models
+
+- Deploy the model using Flask or Streamlit
+
+- Integrate churn predictions with customer lifetime value (CLV)
+
+- Perform time-based churn trend analysis
+
+## 📜 License
+This project is licensed under the MIT License. You are free to use, share, and modify it with attribution.
+
