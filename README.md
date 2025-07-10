@@ -86,4 +86,4 @@ This project is licensed under the MIT License. You are free to use, share, and 
 ## 👤 Author
 
 **Roza** – Data Analyst & Machine Learning Enthusiast  
-Connect with me on [LinkedIn](https://www.linkedin.com/)
+Connect with me on [LinkedIn]([https://www.linkedin.com/](https://no.linkedin.com/in/roza-abolghasemi-584a9386?original_referer=https%3A%2F%2Fwww.google.com%2F))
